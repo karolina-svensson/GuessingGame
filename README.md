@@ -1,1 +1,1 @@
-# GuessingGame
+This is a guessing game with 3 different levels from 1. Easy, 2. Medium, 3. Hard. The player first chooses between the different levels and then gets 5 tries at guessing the random number generated. After the player has guessed correctly or the 5 tries are over they get the option to play again or stop playing.
